@@ -6,8 +6,7 @@
 
 Una aplicación web interactiva construida con **React** que permite a los usuarios buscar películas en tiempo real, conectándose a una API externa para obtener títulos, años de lanzamiento y pósters oficiales.
 
-🔗 **[Mira la aplicación en vivo aquí](https://buscador-peliculas-react-smoky.vercel.app/)** *(Reemplaza este enlace cuando lo subas a Vercel)*
-
+🔗 **[Mira la aplicación en vivo aquí](https://buscador-peliculas-react-smoky.vercel.app/)**
 ---
 
 ## ✨ Características Principales
